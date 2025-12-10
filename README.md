@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
 My name is Cassious Roshan B Cataulin<br>Currently studying in TIP QC<br>My hobbies are playing video games and sports<br>
 
 
@@ -13,5 +13,5 @@ My name is Cassious Roshan B Cataulin<br>Currently studying in TIP QC<br>My hobb
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=casoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
