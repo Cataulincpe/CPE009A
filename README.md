@@ -1,6 +1,6 @@
 # 💫 About Me: 
-My name is Cassious Roshan B Cataulin<br>Currently studying in TIP QC<br>My hobbies are playing video games and sports<br>I also likes memes like this<br>![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
-
+My name is Cassious Roshan B Cataulin<br>Currently studying in TIP QC<br>My hobbies are playing video games and sports<br>I also likes memes like these<br>![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cassious200602@gmail.com) 
