@@ -1,5 +1,5 @@
-# 💫 About Me: ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
-My name is Cassious Roshan B Cataulin<br>Currently studying in TIP QC<br>My hobbies are playing video games and sports<br>
+# 💫 About Me: 
+My name is Cassious Roshan B Cataulin<br>Currently studying in TIP QC<br>My hobbies are playing video games and sports<br>I also likes memes like this<br>![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU4Z2FuemhvbmNvdWR5am10eWtkNTNsMzkzamV4aHlrazFkamdvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3UkqVq3F50bVCi9URl/giphy.gif)
 
 
 ## 🌐 Socials:
